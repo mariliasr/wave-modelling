@@ -1,7 +1,7 @@
 # wave-modelling
 Notebooks and scripts used for wave modelling with SWAN.
 
-The script spec2d.py return the 2d-spectrum from Hs, Tp, pdir and spread in degrees. The script spec2d_era.py returns the 2d-spectrum from Hs, Tp, pdir and cossene power.
+The script spec2d.py returns the 2d-spectrum from Hs, Tp, pdir and spread in degrees. The script spec2d_era.py returns the 2d-spectrum from Hs, Tp, pdir and cossene power.
 
 The notebooks have the following objectives:
 
