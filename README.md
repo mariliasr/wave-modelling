@@ -1,5 +1,5 @@
 # wave-modelling
-Notebooks and scripts used for wave modelling with SWAN. Includes data preparation, cleaning, munging, and visualisation.
+Notebooks and functions used for wave modelling with SWAN. Includes data preparation, cleaning, munging, and visualisation.
 
 The script spec2d.py returns the 2d-spectrum from Hs, Tp, pdir and spread in degrees. The script spec2d_era.py returns the 2d-spectrum from Hs, Tp, pdir and cossene power.
 
