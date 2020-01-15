@@ -7,7 +7,7 @@ The notebooks have the following objectives:
 
 - buoy_csiro_correl and buoy_era_correl:
     - Read .csv files containing buoy observations
-    - Read netcdf file of CSIRO reanalyses containing mean wave period
+    - Read netcdf file of CSIRO reanalysis containing mean wave period
     - Clean and prepare buoy data
     - Select ERA5 timeseries with the same coordinates and date/times of buoy observations
     - Correlate ERA5 wave period to buoy observations
