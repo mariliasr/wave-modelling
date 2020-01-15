@@ -26,10 +26,10 @@ The notebooks have the following objectives:
 - netcdf_xyz:
     - Writes gebco netcdf bathymetry to a .xyz file
 - plot_specs and plot_specs_datasets:
-    - plot_specs plots 2d-spectrum reconstructed from CSIRO wave partitions to a 3d plot.
-    - plot_specs_datasets plots 2d-spectra from three different sources: (1) downloaded directly from ERA5, reconstructed from ERA5 partitions, and reconstructed from CSIRO partitions. The plots are in polar coordinates. Also plots spectra-extracted Hs as timeseries for comparison purposes.
+    - plot_specs plots 2d-spectrum reconstructed from CSIRO wave partitions to a 3d plot
+    - plot_specs_datasets plots 2d-spectra from three different sources: (1) downloaded directly from ERA5, reconstructed from ERA5 partitions, and reconstructed from CSIRO partitions. The plots are in polar coordinates. Also plots spectra-extracted Hs as timeseries for comparison purposes
     
 - swan_out_processing:
-    - Processes the output of SWAN. Extracts data from selected coordinates (wave buoy coordinates for correlation purposes).
-    - Saves timeseries to numpy array.
+    - Processes the output of SWAN. Extracts data from selected coordinates (wave buoy coordinates for correlation purposes)
+    - Saves timeseries to numpy array
     
